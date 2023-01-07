@@ -11,8 +11,8 @@
   text-align: right;
   background-image: url(assets/banner/banner3.png);
   background-repeat: no-repeat;
-  height: 70vh;
-  padding: 150px 150px 50px 50px;
+  background-size: cover;
+  padding: 200px 150px 150px 50px;
 }
 .banner-title {
   font-weight: 700;
